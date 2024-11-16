@@ -1,0 +1,66 @@
+Support cloud infrastructure design and deployment.
+Assist in optimizing cloud computing solutions.
+Collaborate on workload migration to the cloud.
+Automate infrastructure processes.
+Monitor and troubleshoot cloud systems.
+Research emerging cloud technologies.
+Document technical designs and procedures.
+
+
+
+Develop , implement and maintain AWS infrastructure to support three-tier microservice architecture.
+
+• Develop and deploy scalable, secure, and high-performance infrastructure solutions.
+
+• Automate infrastructure deployment using Infrastructure as Code (IaC) tools such as AWS CloudFormation, Terraform, or AWS CDK.
+
+• Collaborate with development teams to ensure smooth integration and deployment of applications.
+
+• Monitor and optimize system performance, ensuring high availability and reliability.
+
+• Implement and manage CI/CD pipelines to streamline the deployment process. Ensure compliance with security best practices and regulatory requirements.
+
+• Troubleshoot and resolve infrastructure issues in a timely manner.Stay updated with the latest industry trends and AWS services to continuously improve the infrastructure.
+
+ 3.5+ years of experience as an AWS Infrastructure Engineer or similar role.
+
+• Proven experience in designing and deploying three-tier microservice architecture on AWS.
+
+• Proficiency in AWS services such as EC2, S3, RDS, Lambda, API Gateway, ECS/EKS, and VPC.
+
+• Strong knowledge of Infrastructure as Code (IaC) tools like AWS CloudFormation, Terraform, or AWS CDK.
+
+• Experience with CI/CD tools such as Jenkins, GitLab CI, AWS CodePipeline, or similar.
+
+• Solid understanding of networking concepts, including VPC, subnets, security groups, and load balancers.
+
+• Familiarity with containerization and orchestration tools like Docker and Kubernetes.
+
+• Strong scripting skills in languages such as Python, Bash, or PowerShell.
+
+• Excellent problem-solving skills and attention to detail.
+
+• Strong communication and collaboration skills.
+
+
+
+Deploy, automate, maintain, and manage an AWS production system - Making sure AWS production systems are reliable, secure, and scalable - Resolving problems across multiple application domains and platforms using system troubleshooting and problem-solving techniques - Automating different operational processes by designing, maintaining, and managing tools - Provide primary operational support and engineering for all Cloud and Enterprise deployments - Lead the organizations platform security efforts by collaborating with the core engineering team - Develop policies, standards, and guidelines for IAC and CI/CD that teams can follow
+
+
+**Skills required:** - AWS, Kubernates, Terraform, Jenkins, DevOps, Ansible (Optional) - Need experience with VMware, operating systems (Linux and Windows), and file systems.
+
+
+
+
+
+
+Extensive working experience with AWS cloud infrastructure-related activities such as security, performance, cloud automation tools, version upgrades, optimization, cost-saving measures, cleanup, alert management, and issue resolution. 
+Good knowledge of containerization, specifically Docker and a well-known orchestration solution, such as Kubernetes or AWS ECS, EC2, S3 and important AWS cloud services
+Experience with creating and managing CI/CD pipelines for infrastructure as code
+Working experience with Terraform and Terragrunt
+Good networking skills in the area of DNS, VPCs, Subnets, Security Groups in AWS
+Experience using Git and GitHub Actions
+Knowledge of Linux administrator 
+Knowledge of YAML, Bash Shell Scripting, SQL and New relic
+Ability to work with ambiguous requirements, new initiatives with minimal direction 
+Excellent analytical and troubleshooting skills 
